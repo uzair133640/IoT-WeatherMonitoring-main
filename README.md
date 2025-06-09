@@ -46,6 +46,21 @@ The scope of this project encompasses the **design, development, and deployment*
 - Integration of **severe weather alert systems** to notify users of critical conditions.
 
 ---
+## 📸 Screenshots
+
+Here are some screenshots showcasing key features of the application:
+
+### 🔹 Dashboard Overview
+![Dashboard](screenshots/weather_dashboard.jpg)
+
+### 🔹 Historical Data View
+![Historical Data](screenshots/weather_analysis.jpg)
+
+### 🔹 Sensor Data
+![Sesnsor Data](screenshots/sensor_data.jpg)
+
+
+---
 
 ## 📝 Additional Information
 
